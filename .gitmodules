@@ -1,0 +1,6 @@
+[submodule "mayday.remoterack"]
+	path = mayday.remoterack
+	url = https://github.com/JamiroFerrara/mayday.remoterack
+[submodule "mayday.website"]
+	path = mayday.website
+	url = https://github.com/JamiroFerrara/mayday.website
